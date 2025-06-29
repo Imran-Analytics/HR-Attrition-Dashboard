@@ -1,0 +1,11 @@
+
+--PGSQL+Power BI Dashboard:
+
+--============================================
+--SECTION 1: DAX Queries
+--============================================ 
+
+1. Active Emps = CALCULATE(COUNTROWS(HR_Data),HR_Data[status] = "Active" )
+2. Attrition % = CALCULATE(COUNTROWS(HR_Data),FILTER(HR_Data,HR_Data[status]="Left"))/COUNT(HR_Data[emp_id])
+3. Exit Emps = CALCULATE(COUNTROWS(HR_Data),HR_Data[status]="Left" )
+4. Tenure = DATEDIFF(HR_Data[hire_date],TODAY(),YEAR)
