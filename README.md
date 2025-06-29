@@ -9,6 +9,16 @@ This project analyzes employee attrition using Power BI connected to a PostgreSQ
 - Department-wise exits and net gain
 - Tenure-based analysis
 
+## 🛠 Tools Used
+- **Power BI** – for dashboard visualization
+- **PostgreSQL** – for data modeling and preparation,join, transform, and clean HR data
+- **DAX** – for KPI calculation and visual logic
+
+- ## Project Files
+- [`HR_Dashboard.pbix`](PGSQL+PowerBI- HR Attrition Dashboard.pbix): Power BI dashboard file
+- [`dashboard_queries.sql`](HR_Attrition_Dashboard_Script.sql): PostgreSQL queries for data preparation
+- [`powerbi_dax_notes.txt`](Powebi_DAX_Notes.txt): DAX measures used in Power BI visuals
+
 ## How to Use:
 - Download the `.pbix` file above
 - Open it in Power BI Desktop
