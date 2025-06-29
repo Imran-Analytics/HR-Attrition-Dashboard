@@ -15,7 +15,7 @@ This project analyzes employee attrition using Power BI connected to a PostgreSQ
 - If needed, relink to your local database or explore visuals directly
 
 ## Screenshots:
-(Add screenshots here if you upload any)
+![Dashboard Screenshot](Dashboard_View.png)
 
 ## Business Use:
 Helps HR teams monitor attrition trends, identify problem areas, and make data-driven retention decisions.
