@@ -29,3 +29,9 @@ This project analyzes employee attrition using Power BI connected to a PostgreSQ
 
 ## Business Use:
 Helps HR teams monitor attrition trends, identify problem areas, and make data-driven retention decisions.
+
+
+## Author
+**Imran K.**  
+Excel + VBA + SQL + Power BI  
+[LinkedIn Profile](https://www.linkedin.com/in/imran-khan-aa8b4718b) | [GitHub Profile](https://github.com/Imran-Analytics)
